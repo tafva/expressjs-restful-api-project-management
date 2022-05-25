@@ -24,7 +24,7 @@ or
   npm install
 ```
 
-2. Database
+3. Database
 ```
   create new db with name mysql-expressjs
   import file "mysql-expressjs.db" that are in the db folder
@@ -205,3 +205,5 @@ See `LICENSE` for more information.
  - [moment](https://www.npmjs.com/package/moment)
  - [mysql](https://www.npmjs.com/package/mysql)
  - [nodemon](https://www.npmjs.com/package/nodemon)
+
+<p align="right"><a href="#project-management---restful-api">#back to top</a></p>
